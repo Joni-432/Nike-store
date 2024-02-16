@@ -210,16 +210,16 @@ nav {
   }
   
   .sliderItem:nth-child(1) .sliderBg {
-    background-color: #369e62;
+    background-color: #2f533e;
   }
   .sliderItem:nth-child(2) .sliderBg {
     background-color: rebeccapurple;
   }
   .sliderItem:nth-child(3) .sliderBg {
-    background-color: teal;
+    background-color: rgb(11, 53, 53);
   }
   .sliderItem:nth-child(4) .sliderBg {
-    background-color: cornflowerblue;
+    background-color: rgb(6, 76, 207);
   }
   .sliderItem:nth-child(5) .sliderBg {
     background-color: rgb(124, 115, 80);
@@ -760,7 +760,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 60px;
+  font-size: 20px;
 }
 
 .text {
