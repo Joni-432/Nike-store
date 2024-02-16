@@ -21,7 +21,7 @@ nav {
   }
   
   .search {
-    width: 500px;
+    width: 400px;
     height: 40px;
     margin: auto;
     margin-left: -50px;
@@ -47,6 +47,7 @@ nav {
     button {
       position: relative;
       float: right;
+      bottom: 35px;
       border: 0;
       padding: 0;
       cursor: pointer;
